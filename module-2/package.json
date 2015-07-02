@@ -23,6 +23,6 @@
   "peerDependencies": {},
   "devDependencies": {
     "ecstatic": "^0.8.0",
-    "parallelshell": "^1.1.1"
+    "parallelshell": "^1.2.0"
   }
 }
